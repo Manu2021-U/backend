@@ -9,7 +9,7 @@ require('dotenv').config()
 app.use(express.json());
 app.use(cors({
 
-    origin: ['http://localhost:5173','https://frontend-nine-iota-69.vercel.app/'],
+    origin: ['http://localhost:5173','https://frontend-dun-nine-95.vercel.app'],
     credentials: true
 }))
 
