@@ -9,7 +9,7 @@ require('dotenv').config()
 app.use(express.json());
 app.use(cors({
 
-    origin: ['http://localhost:5173','https://frontend-f4bc.vercel.app'],
+    origin: ['http://localhost:5173','https://frontend-six-peach-32.vercel.app'],
     credentials: true
 }))
 
